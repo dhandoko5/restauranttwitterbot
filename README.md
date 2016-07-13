@@ -3,4 +3,5 @@ This restaurant recommendation Twitter bot will tweet you the top Yelp restauran
 - 5 digit zip code
 - Price willing to pay ($)
 - Type of cuisine
+
 The restaurant bot will tweet back the top result given those criteria. 
